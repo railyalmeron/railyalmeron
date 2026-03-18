@@ -17,7 +17,7 @@ Hello! I'm Raily Almeron, a UI/UX Designer specializing in designing websites an
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/railyalmeron/railyalmeron/refs/heads/main/figma.svg" width="48" height="48" alt="Figma" title="Figma"/>
-  <img src="https://raw.githubusercontent.com/railyalmeron/railyalmeron/refs/heads/main/framers.svg" width="48" height="48" alt="Framer" title="Framer"/>
+  <img src="https://raw.githubusercontent.com/railyalmeron/railyalmeron/refs/heads/main/framer.svg" width="48" height="48" alt="Framer" title="Framer"/>
   <img src="https://raw.githubusercontent.com/railyalmeron/railyalmeron/refs/heads/main/canva.svg" width="48" height="48" alt="Canva" title="Canva"/>
   <img src="https://raw.githubusercontent.com/railyalmeron/railyalmeron/refs/heads/main/photoshop.svg" width="48" height="48" alt="Adobe Photoshop" title="Adobe Photoshop"/>
   <img src="https://raw.githubusercontent.com/railyalmeron/railyalmeron/refs/heads/main/expo.svg" width="48" height="48" alt="Expo" title="Expo"/>
