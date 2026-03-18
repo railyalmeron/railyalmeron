@@ -10,10 +10,8 @@ Hi there, I'm Raily Almeron — a UI/UX Designer who turns ideas into clean, fun
 - 🛠️ I go from Figma mockup to working code — design and dev
 - 🤝 Open to collaborations on meaningful, user-centered projects
 
----
 
-## 🚀 Tech Stacks
-<p align="left">
+## 🚀 Tech Stacks <p align="left">
   <img src="https://skillicons.dev/icons?i=figma,ps,react,ts,js,html,css,tailwind,py,vscode,github,git" />
 </p>
 <p align="left">
@@ -22,7 +20,7 @@ Hi there, I'm Raily Almeron — a UI/UX Designer who turns ideas into clean, fun
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
 </p>
 
----
+
 
 <p align="center">
   🌐 Explore more: <a href="https://rjalmeron.netlify.app/">Portfolio/</a> • <a href="https://www.linkedin.com/in/raihyaaa/">LinkedIn</a>
