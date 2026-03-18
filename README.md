@@ -12,6 +12,7 @@ Hello! I'm Raily Almeron, a UI/UX Designer specializing in designing websites an
 - 🤝 Open to collaborations on meaningful, user-centered projects
 
 
+
 ## 🚀 Tech Stacks 
 
 <p align="left"> <img src="https://skillicons.dev/icons?i=figma,ps,react,ts,js,html,css,tailwind,py,vscode,github,git" />
@@ -21,6 +22,7 @@ Hello! I'm Raily Almeron, a UI/UX Designer specializing in designing websites an
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
 </p>
+
 
 
 ## ✋ What Can I Offer
