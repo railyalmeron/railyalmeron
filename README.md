@@ -38,21 +38,6 @@ Hi there, I'm Raily Almeron — a UI/UX Designer who turns ideas into clean, fun
   🌐 Explore more: <a href="https://rjalmeron.netlify.app/">htt![framer-svgrepo-com](https://github.com/user-attachments/assets/fb9bb92b-c7c7-421b-9104-4501c56225c0)
 ps://rjalmeron.netlify.app/</a> • <a href="https://www.linkedin.com/in/raihyaaa/">LinkedIn</a>
 </p>
-![Uploading framer<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 
-<!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
-<svg fill="#000000" width="800px" height="800px" viewBox="0 0 24 24" role="img" xmlns="http://www.w3.org/2000/svg">
+<img width="256" height="256" alt="framer-svgrepo-com" src="https://github.com/user-attachments/assets/d4f1a2e7-b2ef-421a-a70b-92eefdc622c8" />
 
-<g id="SVGRepo_bgCarrier" stroke-width="0"/>
-
-<g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"/>
-
-<g id="SVGRepo_iconCarrier">
-
-<title>Framer icon</title>
-
-<path d="M4 0h16v8h-8zM4 8h8l8 8H4zM4 16h8v8z"/>
-
-</g>
-
-</svg>-svgrepo-com.svg…]()
