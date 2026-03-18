@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <rect width="48" height="48" rx="10" fill="#1e1e2e"/>
+  <!-- VS Code logo shape -->
+  <path d="M35,8 L20,23 L12,17 L8,20 L8,28 L12,31 L20,25 L35,40 L40,37 L40,11 Z" fill="#007ACC"/>
+  <path d="M35,8 L20,23 L20,25 L35,40 L40,37 L40,11 Z" fill="#1B8EB7"/>
+  <path d="M8,20 L12,17 L12,31 L8,28 Z" fill="#0F6FA8"/>
+</svg>

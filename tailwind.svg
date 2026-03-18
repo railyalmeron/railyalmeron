@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <rect width="48" height="48" rx="10" fill="#1e1e2e"/>
+  <!-- Top wave -->
+  <path d="M8,18 C12,10 16,10 20,18 C24,26 28,26 32,18 C36,10 40,10 44,18" fill="none" stroke="#06B6D4" stroke-width="3.5" stroke-linecap="round"/>
+  <!-- Bottom wave -->
+  <path d="M8,28 C12,20 16,20 20,28 C24,36 28,36 32,28 C36,20 40,20 44,28" fill="none" stroke="#06B6D4" stroke-width="3.5" stroke-linecap="round"/>
+</svg>

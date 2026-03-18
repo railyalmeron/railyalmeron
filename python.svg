@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <rect width="48" height="48" rx="10" fill="#1e1e2e"/>
+  <!-- Top snake body (blue) -->
+  <path d="M24,8 C16,8 12,12 12,18 L12,22 C12,24 14,26 16,26 L24,26 C26,26 28,28 28,30 L28,34 C28,36 30,38 32,38 L36,38 C38,38 38,36 38,34 L38,22 C38,16 36,8 24,8 Z" fill="#3776AB"/>
+  <!-- Bottom snake body (yellow) -->
+  <path d="M24,40 C32,40 36,36 36,30 L36,26 C36,24 34,22 32,22 L24,22 C22,22 20,20 20,18 L20,14 C20,12 18,10 16,10 L12,10 C10,10 10,12 10,14 L10,26 C10,32 12,40 24,40 Z" fill="#FFD43B"/>
+  <!-- Blue eye -->
+  <circle cx="20" cy="14" r="2" fill="#ffffff"/>
+  <!-- Yellow eye -->
+  <circle cx="28" cy="34" r="2" fill="#ffffff"/>
+</svg>
