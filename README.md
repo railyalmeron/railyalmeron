@@ -16,16 +16,16 @@
 
 ## 🚀 Tech Stacks
 <p align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" height="40" alt="Canva" title="Canva"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" height="40" alt="Figma" title="Figma"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" height="40" alt="Framer" title="Framer"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" height="40" alt="React Native" title="React Native"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" height="40" alt="Expo Go" title="Expo Go"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/888/888859.png" height="40" alt="Adobe Photoshop" title="Adobe Photoshop"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968667.png" height="40" alt="TypeScript" title="TypeScript"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" height="40" alt="Tailwind CSS" title="Tailwind CSS"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" height="40" alt="Python" title="Python"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" height="40" alt="GitHub" title="GitHub"/>
+  <img src="https://camo.githubusercontent.com/2eeb08a64f033db3b1a7a3bff9bbd6f8b1f8a3f4c5b4d1e5b4a3a1d5b1e8f8a1/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d35302669643d37496d574644635066536c7a26666f726d61743d706e6726636f6c6f723d666666666666" height="40" alt="Canva" title="Canva"/>
+  <img src="https://camo.githubusercontent.com/1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d35302669643d37496d574644635066536c7a26666f726d61743d706e6726636f6c6f723d666666666666" height="40" alt="Figma" title="Figma"/>
+  <img src="https://camo.githubusercontent.com/0f1e2d3c4b5a6f7e8d9c0b1a2e3f4d5c6b7a8e9f/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d35302669643d37496d574644635066536c7a26666f726d61743d706e6726636f6c6f723d666666666666" height="40" alt="Framer" title="Framer"/>
+  <img src="https://camo.githubusercontent.com/9f8e7d6c5b4a3f2e1d0c9b8a7e6f5d4c3b2a1f0e/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d35302669643d37496d574644635066536c7a26666f726d61743d706e6726636f6c6f723d666666666666" height="40" alt="React Native" title="React Native"/>
+  <img src="https://camo.githubusercontent.com/ae66beac61fd245d9b078809139fbf572f8ed5078928ffd712b48396b9317b81/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d35302669643d37496d574644635066536c7a26666f726d61743d706e6726636f6c6f723d666666666666" height="40" alt="Expo Go" title="Expo Go"/>
+  <img src="https://camo.githubusercontent.com/b1c2d3e4f5a6b7c8d9e0f1a2b3c4d5e6f7a8b9c0/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d35302669643d37496d574644635066536c7a26666f726d61743d706e6726636f6c6f723d666666666666" height="40" alt="Adobe Photoshop" title="Adobe Photoshop"/>
+  <img src="https://camo.githubusercontent.com/c1b2a3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d35302669643d37496d574644635066536c7a26666f726d61743d706e6726636f6c6f723d666666666666" height="40" alt="TypeScript" title="TypeScript"/>
+  <img src="https://camo.githubusercontent.com/d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d35302669643d37496d574644635066536c7a26666f726d61743d706e6726636f6c6f723d666666666666" height="40" alt="Tailwind CSS" title="Tailwind CSS"/>
+  <img src="https://camo.githubusercontent.com/e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d35302669643d37496d574644635066536c7a26666f726d61743d706e6726636f6c6f723d666666666666" height="40" alt="Python" title="Python"/>
+  <img src="https://camo.githubusercontent.com/f1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d35302669643d37496d574644635066536c7a26666f726d61743d706e6726636f6c6f723d666666666666" height="40" alt="GitHub" title="GitHub"/>
 </p>
 
 ---
