@@ -21,16 +21,16 @@ Hello! I'm Raily Almeron, a UI/UX Designer specializing in designing websites an
   <img src="https://raw.githubusercontent.com/railyalmeron/railyalmeron/refs/heads/main/canva.svg" width="48" height="48" alt="Canva" title="Canva"/>
   <img src="https://raw.githubusercontent.com/railyalmeron/railyalmeron/refs/heads/main/photoshop.svg" width="48" height="48" alt="Adobe Photoshop" title="Adobe Photoshop"/>
   <img src="https://raw.githubusercontent.com/railyalmeron/railyalmeron/refs/heads/main/expo.svg" width="48" height="48" alt="Expo" title="Expo"/>
-  <img src="https://raw.githubusercontent.com/raihyaaa/raihyaaa/main/icons/react-native.svg" width="48" height="48" alt="React Native" title="React Native"/>
-  <img src="https://raw.githubusercontent.com/raihyaaa/raihyaaa/main/icons/typescript.svg" width="48" height="48" alt="TypeScript" title="TypeScript"/>
-  <img src="https://raw.githubusercontent.com/raihyaaa/raihyaaa/main/icons/javascript.svg" width="48" height="48" alt="JavaScript" title="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/raihyaaa/raihyaaa/main/icons/html.svg" width="48" height="48" alt="HTML5" title="HTML5"/>
-  <img src="https://raw.githubusercontent.com/raihyaaa/raihyaaa/main/icons/css.svg" width="48" height="48" alt="CSS3" title="CSS3"/>
-  <img src="https://raw.githubusercontent.com/raihyaaa/raihyaaa/main/icons/tailwind.svg" width="48" height="48" alt="Tailwind CSS" title="Tailwind CSS"/>
-  <img src="https://raw.githubusercontent.com/raihyaaa/raihyaaa/main/icons/python.svg" width="48" height="48" alt="Python" title="Python"/>
-  <img src="https://raw.githubusercontent.com/raihyaaa/raihyaaa/main/icons/vscode.svg" width="48" height="48" alt="VS Code" title="VS Code"/>
-  <img src="https://raw.githubusercontent.com/raihyaaa/raihyaaa/main/icons/github.svg" width="48" height="48" alt="GitHub" title="GitHub"/>
-  <img src="https://raw.githubusercontent.com/raihyaaa/raihyaaa/main/icons/git.svg" width="48" height="48" alt="Git" title="Git"/>
+  <img src="https://raw.githubusercontent.com/railyalmeron/railyalmeron/refs/heads/main/react-native.svg" width="48" height="48" alt="React Native" title="React Native"/>
+  <img src="https://raw.githubusercontent.com/railyalmeron/railyalmeron/refs/heads/main/typescript.svg" width="48" height="48" alt="TypeScript" title="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/railyalmeron/railyalmeron/refs/heads/main/javascript.svg" width="48" height="48" alt="JavaScript" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/railyalmeron/railyalmeron/refs/heads/main/html.svg" width="48" height="48" alt="HTML5" title="HTML5"/>
+  <img src="https://raw.githubusercontent.com/railyalmeron/railyalmeron/refs/heads/main/css.svg" width="48" height="48" alt="CSS3" title="CSS3"/>
+  <img src="https://raw.githubusercontent.com/railyalmeron/railyalmeron/refs/heads/main/tailwind.svg" width="48" height="48" alt="Tailwind CSS" title="Tailwind CSS"/>
+  <img src="https://raw.githubusercontent.com/railyalmeron/railyalmeron/refs/heads/main/python.svg" width="48" height="48" alt="Python" title="Python"/>
+  <img src="https://raw.githubusercontent.com/railyalmeron/railyalmeron/refs/heads/main/vscode.svg" width="48" height="48" alt="VS Code" title="VS Code"/>
+  <img src="https://raw.githubusercontent.com/railyalmeron/railyalmeron/refs/heads/main/github.svg" width="48" height="48" alt="GitHub" title="GitHub"/>
+  <img src="https://raw.githubusercontent.com/railyalmeron/railyalmeron/refs/heads/main/git.svg" width="48" height="48" alt="Git" title="Git"/>
 </p>
 
 
