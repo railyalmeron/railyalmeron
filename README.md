@@ -33,7 +33,14 @@ Hi there, I'm Raily Almeron — a UI/UX Designer who turns ideas into clean, fun
 </p>
 
 
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,ps,react,ts,js,html,css,tailwind,py,vscode,github,git" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
+</p>
 <p align="center">
   🌐 Explore more: <a href="https://rjalmeron.netlify.app/">htt![framer-svgrepo-com](https://github.com/user-attachments/assets/fb9bb92b-c7c7-421b-9104-4501c56225c0)
 ps://rjalmeron.netlify.app/</a> • <a href="https://www.linkedin.com/in/raihyaaa/">LinkedIn</a>
