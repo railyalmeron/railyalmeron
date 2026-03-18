@@ -17,7 +17,7 @@ Hi there, I'm Raily Almeron — a UI/UX Designer who turns ideas into clean, fun
 
 ## ⚡ Technologies
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=framer" alt="Framer" title="Framer" width="48" height="48"/>
   <img src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva" title="Canva" width="48" height="48"/>
