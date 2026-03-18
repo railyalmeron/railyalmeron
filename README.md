@@ -18,11 +18,10 @@ Hello! I'm Raily Almeron, a UI/UX Designer specializing in designing websites an
 <p align="left"> <img src="https://skillicons.dev/icons?i=figma,ps,react,ts,js,html,css,tailwind,py,vscode,github,git" />
 </p>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/railyalmeron/railyalmeron/refs/heads/main/framer-svgrepo-com.svg" alt="Framer"/>
+  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
 </p>
-
 
 
 ## ✋ What Can I Offer
