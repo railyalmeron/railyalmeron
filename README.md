@@ -13,13 +13,13 @@ Hi there, I'm Raily Almeron — a UI/UX Designer who turns ideas into clean, fun
 
 
 
-## ⚡ Technologies
+# ⚡ Technologies
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=framer" alt="Framer" title="Framer" width="48" height="48"/>
   <img src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva" title="Canva" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=ps" alt="Adobe Photoshop" title="Adobe Photoshop" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=expo" alt="Expo" title="Expo" width="48" height="48"/>
+  <img src="https://camo.githubusercontent.com/ae66beac61fd245d9b078809139fbf572f8ed5078928ffd712b48396b9317b81/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d35302669643d37496d574644635066536c7a26666f726d61743d706e6726636f6c6f723d666666666666" alt="Expo" title="Expo" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=react" alt="React Native" title="React Native" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" width="48" height="48"/>
