@@ -1,8 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=26&duration=3700&pause=1000&color=18EBF7&width=435&lines=Welcome+to+my+GitHub!;I'm+Raily+Almeron;UI%2FUX+Designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=26&duration=3700&pause=1000&color=18EBF7&width=435&lines=Welcome+to+my+GitHub!;I'm+Raily+Almeron;UI%2FUX+Designer)](https://git.io/typing-svg)https://github.com/railyalmeron/railyalmeron/blob/main/README.md
 
 Hi there, I'm Raily Almeron — a UI/UX Designer who turns ideas into clean, functional digital experiences. Currently a student and freelancer, I work at the intersection of design — crafting interfaces that are both visually intentional and technically sound. I care deeply about design systems, mobile apps, and building things that just feel right to use.
 
----
 
 ## 🧑‍💻 About Me
 - 🎓 Currently studying and continuously leveling up my craft
@@ -12,7 +11,7 @@ Hi there, I'm Raily Almeron — a UI/UX Designer who turns ideas into clean, fun
 - 🛠️ I go from Figma mockup to working code — design and dev
 - 🤝 Open to collaborations on meaningful, user-centered projects
 
----
+
 
 ## ⚡ Technologies
 <p align="left">
@@ -33,7 +32,7 @@ Hi there, I'm Raily Almeron — a UI/UX Designer who turns ideas into clean, fun
   <img src="https://skillicons.dev/icons?i=git" alt="Git Bash" title="Git Bash" width="48" height="48"/>
 </p>
 
----
+
 
 <p align="center">
   🌐 Explore more: <a href="https://rjalmeron.netlify.app/">https://rjalmeron.netlify.app/</a> • <a href="https://www.linkedin.com/in/raihyaaa/">LinkedIn</a>
