@@ -1,27 +1,17 @@
-<h1 align="center">I'm Kurt Russelle Marmol.</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=26&duration=3700&pause=1000&color=18EBF7&width=435&lines=Welcome+to+my+GitHub!;I'm+Raily+Almeron;UI%2FUX+Designer)](https://git.io/typing-svg)
 
-<p align="center">
-  <a href="https://github.com/jkrmarmol"><img src="https://img.shields.io/badge/GitHub-jkrmarmol-181717?style=flat&logo=github"/></a>
-  <a href="mailto:kurtrussellemarmol@gmail.com"><img src="https://img.shields.io/badge/Gmail-kurtrussellemarmol@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.facebook.com/jkrmarmol"><img src="https://img.shields.io/badge/Facebook-jkrmarmol-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
-  <a href="https://x.com/xkurtph"><img src="https://img.shields.io/badge/X-xkurtph-000000?style=flat&logo=x&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=jkrmarmol&label=visitors&color=0e75b6&style=flat" alt="visitor badge"/>
-</p>
+Hi there, I'm Raily Almeron — a UI/UX Designer who turns ideas into clean, functional digital experiences. Currently a student and freelancer, I work at the intersection of design — crafting interfaces that are both visually intentional and technically sound. I care deeply about design systems, mobile apps, and building things that just feel right to use.
 
 ---
 
-Hi there, I'm **Kurt Russelle Marmol** — a passionate developer actively contributing to open-source projects and building real-world solutions through hackathons. I enjoy turning ideas into impactful web and mobile applications, and I'm always excited to collaborate and learn from the developer community.
+## 🧑‍💻 About Me
 
----
-
-## 🐱 More About Me
-
-- 🍹 I enjoy learning and experimenting with new technologies in my free time
-- 👥 Most of my projects are available on [GitHub](https://github.com/jkrmarmol)
-- 💬 Ask me about anything tech related, I am happy to help;
-- 📩 Feel free to ping me on [LinkedIn](https://linkedin.com/in/jkrmarmol)
-- 🌱 I am excited to continue learning and growing as a web developer, and am eager to start applying my skills professionally
-- 🚀 I love building stuff through hackathons and collaborating with like-minded individuals
+- 🎓 Currently studying and continuously leveling up my craft
+- 💼 Freelancing — open to design 
+- 🎨 Passionate about mobile and web designing
+- 🔍 Detail-oriented: I care about spacing, typography, and every pixel in between
+- 🛠️ I go from Figma mockup to working code — design and dev
+- 🤝 Open to collaborations on meaningful, user-centered projects
 
 ---
 
@@ -47,49 +37,6 @@ Hi there, I'm **Kurt Russelle Marmol** — a passionate developer actively contr
 
 ---
 
-## 📰 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How I access other domains in infinityfree.net using Directory Traversal](https://jkrmarmol.dev)
-- [How can I buy any product and pay only $1 — Client-Side Injection](https://jkrmarmol.dev)
-
-📖 [more blog posts...](https://jkrmarmol.dev)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🏆 Github Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jkrmarmol&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jkrmarmol&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jkrmarmol&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkrmarmol&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-## 🌸 Holopin Badges
-
-<p align="center">
-  <a href="https://holopin.io/@jkrmarmol">
-    <img src="https://holopin.me/jkrmarmol" alt="Holopin Badges"/>
-  </a>
-</p>
-
----
-
-<p align="center">Built with 🍪, Always hacking, learning, and shipping cool stuff.</p>
-<p align="center">Let's build something awesome together!</p>
-<p align="center">
-  🌐 Explore more: <a href="https://jkrmarmol.dev">jkrmarmol.dev</a> • <a href="https://linkedin.com/in/jkrmarmol">LinkedIn</a>
+  🌐 Explore more: <a href="https://rjalmeron.netlify.app/">https://rjalmeron.netlify.app/</a> • <a href="https://www.linkedin.com/in/raihyaaa/">LinkedIn</a>
 </p>
