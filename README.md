@@ -17,23 +17,21 @@
 
 ## 🚀 Tech Stacks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" title="Figma"/>
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="Adobe Photoshop" title="Adobe Photoshop"/>
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" title="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" title="TypeScript"/>
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React Native" title="React Native"/>
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" title="Python"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" title="Tailwind CSS"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" title="VS Code"/>
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" title="GitHub"/>
-  <img src="https://camo.githubusercontent.com/ae66beac61fd245d9b078809139fbf572f8ed5078928ffd712b48396b9317b81/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d35302669643d37496d574644635066536c7a26666f726d61743d706e6726636f6c6f723d666666666666"    height="40" alt="Expo" title="Expo"/>
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/canva.svg" height="40" alt="Canva" title="Canva"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/figma.svg" height="40" alt="Figma" title="Figma"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/framer.svg" height="40" alt="Framer" title="Framer"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/adobephotoshop.svg" height="40" alt="Adobe Photoshop" title="Adobe Photoshop"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/expo.svg" height="40" alt="Expo Go" title="Expo Go"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" height="40" alt="React Native" title="React Native"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/typescript.svg" height="40" alt="TypeScript" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tailwindcss.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" height="40" alt="Python" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" height="40" alt="GitHub" title="GitHub"/>
 </p>
 
 ---
 
 ## 🌐 Connect With Me
+
 💼 LinkedIn: linkedin.com/in/raihyaaa
 🌐 Portfolio: rjalmeron.netlify.app
