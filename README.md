@@ -11,8 +11,8 @@ Hi there, I'm Raily Almeron — a UI/UX Designer who turns ideas into clean, fun
 - 🤝 Open to collaborations on meaningful, user-centered projects
 
 
-## 🚀 Tech Stacks <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,ps,react,ts,js,html,css,tailwind,py,vscode,github,git" />
+## 🚀 Tech Stacks 
+<p align="left"> <img src="https://skillicons.dev/icons?i=figma,ps,react,ts,js,html,css,tailwind,py,vscode,github,git" />
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer"/>
@@ -23,5 +23,5 @@ Hi there, I'm Raily Almeron — a UI/UX Designer who turns ideas into clean, fun
 
 
 <p align="center">
-  🌐 Explore more: <a href="https://rjalmeron.netlify.app/">Portfolio/</a> • <a href="https://www.linkedin.com/in/raihyaaa/">LinkedIn</a>
+  🌐 Explore more: <a href="https://rjalmeron.netlify.app/">Portfolio</a> • <a href="https://www.linkedin.com/in/raihyaaa/">LinkedIn</a>
 </p>
