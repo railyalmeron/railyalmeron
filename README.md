@@ -5,7 +5,6 @@
 ---
 
 ## 🧑‍💻 About Me
-
 - 🎓 Currently studying and continuously leveling up my craft
 - 💼 Freelancing — open to design 
 - 🎨 Passionate about mobile and web designing
@@ -17,21 +16,20 @@
 
 ## 🚀 Tech Stacks
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/canva.svg" height="40" alt="Canva" title="Canva"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/figma.svg" height="40" alt="Figma" title="Figma"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/framer.svg" height="40" alt="Framer" title="Framer"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/adobephotoshop.svg" height="40" alt="Adobe Photoshop" title="Adobe Photoshop"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/expo.svg" height="40" alt="Expo Go" title="Expo Go"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" height="40" alt="React Native" title="React Native"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/typescript.svg" height="40" alt="TypeScript" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tailwindcss.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" height="40" alt="Python" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" height="40" alt="GitHub" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/canva.png" height="40" alt="Canva" title="Canva"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/figma.png" height="40" alt="Figma" title="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/framer.png" height="40" alt="Framer" title="Framer"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/react.png" height="40" alt="React Native" title="React Native"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/expo.png" height="40" alt="Expo Go" title="Expo Go"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobephotoshop.png" height="40" alt="Adobe Photoshop" title="Adobe Photoshop"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/typescript.png" height="40" alt="TypeScript" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tailwindcss.png" height="40" alt="Tailwind CSS" title="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/python.png" height="40" alt="Python" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.png" height="40" alt="GitHub" title="GitHub"/>
 </p>
 
 ---
 
 ## 🌐 Connect With Me
-
 💼 LinkedIn: linkedin.com/in/raihyaaa
 🌐 Portfolio: rjalmeron.netlify.app
