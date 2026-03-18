@@ -5,7 +5,6 @@ Hi there, I'm Raily Almeron — a UI/UX Designer who turns ideas into clean, fun
 ---
 
 ## 🧑‍💻 About Me
-
 - 🎓 Currently studying and continuously leveling up my craft
 - 💼 Freelancing — open to design 
 - 🎨 Passionate about mobile and web designing
@@ -16,7 +15,6 @@ Hi there, I'm Raily Almeron — a UI/UX Designer who turns ideas into clean, fun
 ---
 
 ## ⚡ Technologies
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=framer" alt="Framer" title="Framer" width="48" height="48"/>
