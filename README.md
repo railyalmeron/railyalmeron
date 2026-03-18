@@ -3,6 +3,7 @@
 Hello! I'm Raily Almeron, a UI/UX Designer specializing in designing websites and mobile applications that not only look stunning but also deliver exceptional user experiences. My approach combines creative vision with user-centered design principles to solve real-world problems.
 
 ## 🧑‍💻 About Me
+
 - 🎓 Currently studying and continuously leveling up my craft
 - 💼 Freelancing — open to design 
 - 🎨 Passionate about mobile and web designing
@@ -12,6 +13,7 @@ Hello! I'm Raily Almeron, a UI/UX Designer specializing in designing websites an
 
 
 ## 🚀 Tech Stacks 
+
 <p align="left"> <img src="https://skillicons.dev/icons?i=figma,ps,react,ts,js,html,css,tailwind,py,vscode,github,git" />
 </p>
 <p align="left">
@@ -22,6 +24,7 @@ Hello! I'm Raily Almeron, a UI/UX Designer specializing in designing websites an
 
 
 ## ✋ What Can I Offer
+
 <table>
   <tr>
     <td width="33%" valign="top">
@@ -53,6 +56,8 @@ Hello! I'm Raily Almeron, a UI/UX Designer specializing in designing websites an
   </tr>
 </table>
 <p align="center">
+
+
 
 
 <p align="center">
