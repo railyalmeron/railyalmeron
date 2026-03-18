@@ -2,7 +2,8 @@
 
 Hi there, I'm Raily Almeron — a UI/UX Designer who turns ideas into clean, functional digital experiences. Currently a student and freelancer, I work at the intersection of design — crafting interfaces that are both visually intentional and technically sound. I care deeply about design systems, mobile apps, and building things that just feel right to use.
 
-## 🧑‍💻 About Me- 🎓 Currently studying and continuously leveling up my craft
+## 🧑‍💻 About Me
+- 🎓 Currently studying and continuously leveling up my craft
 - 💼 Freelancing — open to design 
 - 🎨 Passionate about mobile and web designing
 - 🔍 Detail-oriented: I care about spacing, typography, and every pixel in between
