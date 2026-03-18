@@ -24,41 +24,14 @@ Hello! I'm Raily Almeron, a UI/UX Designer specializing in designing websites an
 
 
 ## ✋ What Can I Offer
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🖼️ Wireframing</h3>
-      <p>Creating low and high-fidelity wireframes to visualize structure and user flow before diving into visual design.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>⚙️ Prototyping</h3>
-      <p>Building interactive prototypes that bring your ideas to life and allow for user testing and validation.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🎨 Visual Design</h3>
-      <p>Crafting beautiful, modern interfaces with attention to typography, color, spacing, and overall aesthetic appeal.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🧩 Design System Creation</h3>
-      <p>Building scalable design systems with reusable components, patterns, and guidelines for consistency.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🔍 UI/UX Audit</h3>
-      <p>Evaluating existing interfaces to identify usability issues and provide actionable recommendations.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>📱 Responsive Design</h3>
-      <p>Ensuring seamless experiences across all devices with mobile-first design approaches.</p>
-    </td>
-  </tr>
-</table>
 <p align="center">
+  <img src="https://raw.githubusercontent.com/raihyaaa/raihyaaa/main/what-i-offer.svg" alt="What I Can Offer" width="100%"/>
+</p>
+<p align="center">
+  🌐 Explore more: <a href="https://rjalmeron.netlify.app/">Portfolio</a> • <a href="https://www.linkedin.com/in/raihyaaa/">LinkedIn</a>
+</p>
 
-
-
+--- 
 
 <p align="center">
   🌐 Explore more: <a href="https://rjalmeron.netlify.app/">Portfolio</a> • <a href="https://www.linkedin.com/in/raihyaaa/">LinkedIn</a>
