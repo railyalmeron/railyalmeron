@@ -39,5 +39,5 @@ Hi there, I'm Raily Almeron — a UI/UX Designer who turns ideas into clean, fun
 ps://rjalmeron.netlify.app/</a> • <a href="https://www.linkedin.com/in/raihyaaa/">LinkedIn</a>
 </p>
 
-<img width="256" height="256" alt="framer-svgrepo-com" src="https://github.com/user-attachments/assets/d4f1a2e7-b2ef-421a-a70b-92eefdc622c8" />
+<img width="48" height="48" alt="framer-svgrepo-com" src="https://github.com/user-attachments/assets/d4f1a2e7-b2ef-421a-a70b-92eefdc622c8" />
 
