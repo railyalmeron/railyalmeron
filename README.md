@@ -25,10 +25,10 @@ Hello! I'm Raily Almeron, a UI/UX Designer specializing in designing websites an
 
 ## ✋ What Can I Offer
 <p align="center">
-  <img src="https://raw.githubusercontent.com/raihyaaa/raihyaaa/main/what-i-offer.svg" alt="What I Can Offer" width="100%"/>
+  <img src="https://raw.githubusercontent.com/railyalmeron/railyalmeron/refs/heads/main/what-i-offer.svg" alt="What I Can Offer" width="100%"/>
 </p>
 
---- 
+
 
 <p align="center">
   🌐 Explore more: <a href="https://rjalmeron.netlify.app/">Portfolio</a> • <a href="https://www.linkedin.com/in/raihyaaa/">LinkedIn</a>
