@@ -41,6 +41,7 @@ Hello! I'm Raily Almeron, a UI/UX Designer specializing in designing websites an
 <!-- Design -->
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="50"/>
 </p>
 
