@@ -11,16 +11,9 @@ Hello! I'm Raily Almeron, a UI/UX Designer specializing in designing websites an
 - 🛠️ I go from Figma/Framer mockup to working code — design and dev
 - 🤝 Open to collaborations on meaningful, user-centered projects
 
-
-## 🚀 Tech Stacks 
-
-<!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=200&section=header&text=Tech%20Stack&fontSize=40&fontColor=ffffff" />
 </p>
-
-<h3 align="center">🚀 Technologies & Tools</h3>
-
 <!-- Design -->
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/>
