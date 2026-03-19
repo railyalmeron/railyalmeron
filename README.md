@@ -12,6 +12,7 @@ Hello! I'm Raily Almeron, a UI/UX Designer specializing in designing websites an
 - 🤝 Open to collaborations on meaningful, user-centered projects
 
 
+
 ## 🚀 Tech Stack
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/>
@@ -28,6 +29,7 @@ Hello! I'm Raily Almeron, a UI/UX Designer specializing in designing websites an
   <img src="https://img.icons8.com/ios-filled/100/ffffff/github.png" width="50" title="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
 </p>
+
 
 
 ## ✋ What Can I Offer
