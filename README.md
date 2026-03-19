@@ -37,34 +37,42 @@ Hello! I'm Raily Almeron, a UI/UX Designer specializing in designing websites an
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=200&section=header&text=My%20Tech%20Stack&fontSize=40&fontColor=ffffff" />
 </p>
 
-<!-- Tech Stack Icons -->
+<!-- Tech Stack Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:9333ea&height=200&section=header&text=Tech%20Stack&fontSize=40&fontColor=ffffff" />
+</p>
+
 <h3 align="center">🚀 Technologies & Tools</h3>
 
+<!-- Design Tools -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/railyalmeron/railyalmeron/refs/heads/main/figma.svg" width="50" title="Figma"/>
-  <img src="https://raw.githubusercontent.com/railyalmeron/railyalmeron/refs/heads/main/framer1.svg" width="50" title="Framer"/>
-  <img src="https://raw.githubusercontent.com/railyalmeron/railyalmeron/refs/heads/main/canva1.svg" width="50" title="Canva"/>
-  <img src="https://raw.githubusercontent.com/railyalmeron/railyalmeron/refs/heads/main/photoshop.svg" width="50" title="Adobe Photoshop"/>
+  <img src="https://cdn.simpleicons.org/figma" width="50" title="Figma"/>
+  <img src="https://cdn.simpleicons.org/framer" width="50" title="Framer"/>
+  <img src="https://cdn.simpleicons.org/canva" width="50" title="Canva"/>
+  <img src="https://cdn.simpleicons.org/adobephotoshop" width="50" title="Adobe Photoshop"/>
 </p>
 
+<!-- Mobile & Frontend -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/railyalmeron/railyalmeron/refs/heads/main/expo.svg" width="50" title="Expo"/>
-  <img src="https://raw.githubusercontent.com/railyalmeron/railyalmeron/refs/heads/main/react-native.svg" width="50" title="React Native"/>
-  <img src="https://raw.githubusercontent.com/railyalmeron/railyalmeron/refs/heads/main/typescript.svg" width="50" title="TypeScript"/>
-  <img src="https://raw.githubusercontent.com/railyalmeron/railyalmeron/refs/heads/main/javascript.svg" width="50" title="JavaScript"/>
+  <img src="https://cdn.simpleicons.org/expo" width="50" title="Expo"/>
+  <img src="https://cdn.simpleicons.org/react" width="50" title="React Native"/>
+  <img src="https://cdn.simpleicons.org/typescript" width="50" title="TypeScript"/>
+  <img src="https://cdn.simpleicons.org/javascript" width="50" title="JavaScript"/>
 </p>
 
+<!-- Web -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/railyalmeron/railyalmeron/refs/heads/main/html.svg" width="50" title="HTML5"/>
-  <img src="https://raw.githubusercontent.com/railyalmeron/railyalmeron/refs/heads/main/css.svg" width="50" title="CSS3"/>
-  <img src="https://raw.githubusercontent.com/railyalmeron/railyalmeron/refs/heads/main/tailwind.svg" width="50" title="Tailwind CSS"/>
+  <img src="https://cdn.simpleicons.org/html5" width="50" title="HTML5"/>
+  <img src="https://cdn.simpleicons.org/css3" width="50" title="CSS3"/>
+  <img src="https://cdn.simpleicons.org/tailwindcss" width="50" title="Tailwind CSS"/>
 </p>
 
+<!-- Backend & Tools -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/railyalmeron/railyalmeron/refs/heads/main/python.svg" width="50" title="Python"/>
-  <img src="https://raw.githubusercontent.com/railyalmeron/railyalmeron/refs/heads/main/vscode.svg" width="50" title="VS Code"/>
-  <img src="https://raw.githubusercontent.com/railyalmeron/railyalmeron/refs/heads/main/github.svg" width="50" title="GitHub"/>
-  <img src="https://raw.githubusercontent.com/railyalmeron/railyalmeron/refs/heads/main/git.svg" width="50" title="Git"/>
+  <img src="https://cdn.simpleicons.org/python" width="50" title="Python"/>
+  <img src="https://cdn.simpleicons.org/visualstudiocode" width="50" title="VS Code"/>
+  <img src="https://cdn.simpleicons.org/github" width="50" title="GitHub"/>
+  <img src="https://cdn.simpleicons.org/git" width="50" title="Git"/>
 </p>
 
 ## ✋ What Can I Offer
