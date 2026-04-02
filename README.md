@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=26&duration=3700&pause=1000&color=18EBF7&width=435&lines=Welcome+to+my+GitHub!;I'm+Raily+Almeron;UI%2FUX+Designer)](https://git.io/typing-svg)
 
-Hello! I'm Raily Almeron, a UI/UX Designer specializing in designing websites and mobile applications that not only look stunning but also deliver exceptional user experiences. My approach combines creative vision with user-centered design principles to solve real-world problems.
+Entry-Level UI/UX Designer and Computer Technician with hands-on experience in designing user-friendly interfaces and troubleshooting computer hardware and software issues. Working Knowledge in Figma, Canva, Framer and Wix Studio, with foundational knowledge of front-end development. Demonstrates the ability to translate concepts into wireframes and interactive prototypes while ensuring usability and design consistency. Experienced in diagnosing, maintaining, and upgrading pc/laptops, including hardware repairs and system optimization. A collaborative team player with strong problem-solving skills, committed to delivering efficient technical support and intuitive digital experiences. Eager to contribute to a dynamic organization while continuously developing technical and design expertise.
 
 ## 🧑‍💻 About Me
 
