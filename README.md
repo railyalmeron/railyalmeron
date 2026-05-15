@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=26&duration=3700&pause=1000&color=18EBF7&width=435&lines=Welcome+to+my+GitHub!;I'm+Raily+Almeron;UI%2FUX+Designer)](https://git.io/typing-svg)
 
-Entry-Level UI/UX Designer and Computer Technician skilled in Figma, Canva, Framer, and Wix Studio, with experience in wireframing and prototyping user-friendly interfaces. Passionate gamer with a strong interest in video game testing, including identifying bugs and improving user experience. Proficient in PC/laptop troubleshooting, repair, and system optimization, with strong problem-solving and teamwork skills.
+Entry-Level UI Designer and Computer Technician skilled in Figma, Canva, Framer, and Wix Studio, with experience in wireframing and prototyping user-friendly interfaces. Passionate gamer with a strong interest in video game testing, including identifying bugs and improving user experience. Proficient in PC/laptop troubleshooting, repair, and system optimization, with strong problem-solving and teamwork skills.
 
 ## 🧑‍💻 About Me
 
