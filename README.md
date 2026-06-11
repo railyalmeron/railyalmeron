@@ -4,12 +4,14 @@ Fresh Graduate with proficiency in computer hardware and software troubleshootin
 
 ## 🧑‍💻 About Me
 
-- 🎓 Currently studying and continuously leveling up my craft
-- 💼 Freelancing — open to design 
-- 🎨 Passionate about mobile and web designing
-- 🔍 Detail-oriented: I care about spacing, typography, and every pixel in between
-- 🛠️ I go from Figma/Framer mockup to working code — design and dev
-- 🤝 Open to collaborations on meaningful, user-centered projects
+- 🎓 Fresh Graduate building a career in IT Support, QA Testing, and UI/UX Design
+- 🛠️ Experienced in troubleshooting computer hardware and software issues, system maintenance, and optimization
+- 🌐 Familiar with networking fundamentals and cloud computing concepts
+- 🎨 Designing user-friendly interfaces with Figma and Wix Studio through wireframing and prototyping
+- 🎮 Enthusiastic gamer interested in game testing, bug reporting, and enhancing player experiences
+- 💡 Strong problem-solving mindset with excellent communication and teamwork abilities
+- 📚 Committed to continuous learning and staying updated with emerging technologies
+- 🚀 Open to opportunities, collaborations, and projects that create meaningful user experiences
 
 
 
